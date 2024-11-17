@@ -33,7 +33,7 @@ You can control the snake using either the **Arrow Keys** or the **WASD Keys**.
 
 ### 3. **Win and Lose Conditions** 🎯
 - **Win Condition**: The game ends with a victory message when the snake reaches a length of **20 blocks**. 🎉
-- **Lose Condition**: The game ends with a game-over message if the snake collides with the wall or its own body. 💥
+- **Lose Condition**: The game ends with a game-over message if the snake collides with the wall. 💥
 
 ### 4. **Background Color Change** 🎨
 - When the player wins or loses, the background color changes to **black** for a dramatic effect. 
