@@ -1,3 +1,6 @@
+I found out that I can't use AI to help me write the README and comment my code, so I removed everything written by AI from the repository.  
+
+
 # Snake Game with Pixel-Art Apple
 
 Welcome to the **Snake Game** project! This is a classic snake game built with Python and Pygame, featuring a pixel-art **apple** and support for both **arrow keys** and **WASD controls** . 
